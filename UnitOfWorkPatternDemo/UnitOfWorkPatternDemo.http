@@ -1,0 +1,6 @@
+@UnitOfWorkPatternDemo_HostAddress = http://localhost:5197
+
+GET {{UnitOfWorkPatternDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
